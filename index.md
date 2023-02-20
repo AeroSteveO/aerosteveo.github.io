@@ -6,6 +6,8 @@ permalink: /index.html
 
 * [EspDeck](https://github.com/AeroSteveO/EspDeck)
 * [Air-Gradient-Extended](https://github.com/AeroSteveO/Air-Gradient-Extended)
+* Smaller Widgets
+  * [IKEA Vindriktning Esp](https://github.com/AeroSteveO/ESP-Projects/blob/main/vindriktning/README.md)
 
 # Software Projects
 
